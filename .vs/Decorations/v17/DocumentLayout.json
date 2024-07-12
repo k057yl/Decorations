@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\k057yl\\source\\repos\\Decorations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65D39815-71A7-4031-95A2-A9A25110A051}|Decorations\\Decorations.csproj|c:\\users\\k057yl\\source\\repos\\decorations\\decorations\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65D39815-71A7-4031-95A2-A9A25110A051}|Decorations\\Decorations.csproj|solutionrelative:decorations\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D39815-71A7-4031-95A2-A9A25110A051}|Decorations\\Decorations.csproj|c:\\users\\k057yl\\source\\repos\\decorations\\decorations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D39815-71A7-4031-95A2-A9A25110A051}|Decorations\\Decorations.csproj|solutionrelative:decorations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\k057yl\\source\\repos\\Decorations\\Decorations\\Program.cs",
+              "RelativeDocumentMoniker": "Decorations\\Program.cs",
+              "ToolTip": "C:\\Users\\k057yl\\source\\repos\\Decorations\\Decorations\\Program.cs",
+              "RelativeToolTip": "Decorations\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswDQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:29:24.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\k057yl\\source\\repos\\Decorations\\Decorations\\appsettings.json",
+              "RelativeDocumentMoniker": "Decorations\\appsettings.json",
+              "ToolTip": "C:\\Users\\k057yl\\source\\repos\\Decorations\\Decorations\\appsettings.json",
+              "RelativeToolTip": "Decorations\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T05:11:38.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
